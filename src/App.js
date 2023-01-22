@@ -6,7 +6,8 @@ import Login from "./components/Login";
 import SignUp from "./components/SignUp";
 import Upload from "./components/Upload";
 import Video from "./components/Video";
-
+//app url
+//https://chakra-five-henna.vercel.app/
 function App() {
   return <Router>
     <Header/>
